@@ -19,6 +19,7 @@ It is a small real-life automation task using Python.
 3. Open a terminal in VS Code and run the script:
 
 ```bash
+
 python Task3_EmailExtractor.py
 
 4. After running, check the folder for the emails.txt file containing all extracted emails.
@@ -37,3 +38,22 @@ emails.txt (after running the script)
 deep@gmail.com
 test@yahoo.com
 support@website.com
+4. After running, check the folder for the emails.txt file containing all extracted emails.
+
+
+
+Example
+
+input.txt
+
+Hello my email is deep@gmail.com and my other email is test@yahoo.com.
+Contact us at support@website.com.
+
+emails.txt (after running the script)
+
+deep@gmail.com
+test@yahoo.com
+support@website.com
+
+## Author
+Kushwaha Deep
